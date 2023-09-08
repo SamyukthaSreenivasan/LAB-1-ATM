@@ -7,10 +7,17 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
+```
+Developed by:Samyuktha.S
+Register No:212222240089
+```
+![image](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/5409c0b0-1545-4a75-998e-fc1539c50f76)
 
+![image](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/fd11fae4-7120-43b1-8013-5ede747525be)
 
+![image](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/25c6eebe-1983-44bb-b005-388fb6cfb9ed)
 
-
+![image](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/38acdb4c-da48-4bcd-b1dd-b169e0a90d20)
 
 
 ### RESULT: 
