@@ -19,6 +19,11 @@ Register No:212222240089
 
 ![image](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/38acdb4c-da48-4bcd-b1dd-b169e0a90d20)
 
+![atm package](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/3af6b59d-b7bd-4af9-9382-0ee88406a71d)
+
+![comm atm](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/bf1da83e-4f5c-40e3-b741-5d21d15be745)
+
+![state atm](https://github.com/SamyukthaSreenivasan/LAB-1-ATM/assets/119475703/8bcd90e7-4282-4124-9053-f20749a80e83)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
